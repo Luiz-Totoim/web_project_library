@@ -285,6 +285,7 @@
 .step {
   padding: 0;
   flex-basis: 220px;
+  gap: 40px;
   /* Adicione estilos */
 }
 
